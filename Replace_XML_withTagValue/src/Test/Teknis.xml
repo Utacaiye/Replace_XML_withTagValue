@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceRequest>
+    <RequestHeader>
+        <Service>Kura-Kura</Service>
+        <Operation>Kucing</Operation>
+        <Credentials>
+            <Name>Setan</Name>
+            <Password>Malaikat</Password>
+        </Credentials>
+    </RequestHeader>
+</ServiceRequest>
